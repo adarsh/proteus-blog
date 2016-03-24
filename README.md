@@ -37,3 +37,8 @@ Run the rake task to generate the markup and deploy the site:
     $ open http://adarsh.io
 
 Big thanks to [Harlow Ward](https://github.com/harlow) for the Middleman template.
+
+Also thanks to the maintainers of [Proteus]
+for making the rewrite easier.
+
+[Proteus](http://github.com/thoughtbot/proteus)
